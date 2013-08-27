@@ -1,0 +1,121 @@
+System Information
+
+Kit Installed: 7.5.0.1017
+Kit Install History: 7.5.0.1017
+Shell Version: 7.5.0.1017
+
+OS Name: Microsoft® Windows Vista™ Home Basic 
+OS Version: 6.0.6000  Build 6000
+System Name: KINCLOWN_PC
+System Manufacturer: Acer
+System Model: EQ35M
+Processor: Intel(R) Pentium(R) Dual  CPU  E2140  @ 1.60GHz
+BIOS Version/Date: American Megatrends Inc. R01-B2, 03/14/2008
+
+Language: ENU
+
+
+
+Intel(R) RAID Technology
+
+Intel RAID Controller: Intel(R) ICH8R/ICH9R SATA RAID Controller
+Number of Serial ATA ports: 6
+ 
+RAID Option ROM Version: 7.6.0.1011
+Driver Version: 7.5.0.1017
+RAID Plug-In Version: 7.5.0.1017
+Language Resource Version of the RAID Plug-In: 7.5.0.1017
+Create Volume Wizard Version: 7.5.0.1017
+Language Resource Version of the Create Volume Wizard: 7.5.0.1017
+Create Volume from Existing Hard Drive Wizard Version: 7.5.0.1017
+Language Resource Version of the Create Volume from Existing Hard Drive Wizard: 7.5.0.1017
+Modify Volume Wizard Version: 7.5.0.1017
+Language Resource Version of the Modify Volume Wizard: 7.5.0.1017
+Delete Volume Wizard Version: 7.5.0.1017
+Language Resource Version of the Delete Volume Wizard: 7.5.0.1017
+ISDI Library Version: 7.5.0.1017
+Event Monitor User Notification Tool Version: 7.5.0.1017
+Language Resource Version of the Event Monitor User Notification Tool: 7.5.0.1017
+Event Monitor Version: 7.5.0.1017
+ 
+Array_0000
+Status: No active migration(s)
+Hard Drive Write Cache Enabled: Yes
+Size: 298.1 GB
+Free Space: 0 GB
+Number of Hard Drives: 2
+Hard Drive Member 1: ST3200822AS
+Hard Drive Member 2: WDC WD1600AAJS-00B4A0
+Number of Volumes: 1
+Volume Member 1: Volume_0000
+ 
+Volume_0000
+Status: Normal
+System Volume: Yes
+Volume Write-Back Cache Enabled: No
+RAID Level: RAID 0 (striping)
+Strip Size: 128 KB
+Size: 298 GB
+Physical Sector Size: 512 Bytes
+Logical Sector Size: 512 Bytes
+Number of Hard Drives: 2
+Hard Drive Member 1: ST3200822AS
+Hard Drive Member 2: WDC WD1600AAJS-00B4A0
+Parent Array: Array_0000
+ 
+Hard Drive 0
+Usage: Array member
+Status: Error occurred
+Device Port: 1
+Device Port Location: Internal
+Current Serial ATA Transfer Mode: Generation 1
+Model: ST3200822AS
+Serial Number: 3LJ23RZ7
+Firmware: 3.02
+Native Command Queuing Support: No
+Hard Drive Write Cache Enabled: Yes
+Size: 186.3 GB
+Physical Sector Size: 512 Bytes
+Logical Sector Size: 512 Bytes
+Number of Volumes: 1
+Volume Member 1: Volume_0000
+Parent Array: Array_0000
+ 
+Hard Drive 1
+Usage: Array member
+Status: Normal
+Device Port: 3
+Device Port Location: Internal
+Current Serial ATA Transfer Mode: Generation 2
+Model: WDC WD1600AAJS-00B4A0
+Serial Number: WD-WCAT30329041
+Firmware: 01.03A01
+Native Command Queuing Support: Yes
+Hard Drive Write Cache Enabled: Yes
+Size: 149 GB
+Physical Sector Size: 512 Bytes
+Logical Sector Size: 512 Bytes
+Number of Volumes: 1
+Volume Member 1: Volume_0000
+Parent Array: Array_0000
+ 
+Unused Port 0
+Device Port: 0
+Device Port Location: Internal
+ 
+Unused Port 1
+Device Port: 2
+Device Port Location: Internal
+ 
+Unused Port 2
+Device Port: 4
+Device Port Location: Internal
+ 
+Unused Port 3
+Device Port: 5
+Device Port Location: External
+
+
+
+
+
